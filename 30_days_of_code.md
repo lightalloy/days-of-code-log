@@ -36,7 +36,16 @@ light workouts log (hanami app) - authentication with roda and omniauth-github
 [ruby, hanami, ruby-on-rails]  
 
 **Day 6**  
-Watched the video ["How does bundler work anyway?"]()  
+Watched the video ["How does bundler work, anyway?"](https://www.youtube.com/watch?v=GvFfd_MCJq0)  
 light workouts log (hanami app) - authentication with roda and omniauth-github  
-[ruby, hanami]
+99 bottles of oop: parts 3.3-3.5  
+[ruby, hanami, oop]  
+  
+**Day 7**  
+Hanami app - small authentication refactoring  
+Challenge stats parser script - improving, adding rake tasks  
+Reading about rake.  
+99 bottles op oop: parts 3.6, 3.7.1 - 3.7.4  
+Listening to the podcast "Ruby book club with Sandi Metz and Katrina Owen" about the book "99 bottles of oop"
+  
 
