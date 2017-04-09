@@ -47,5 +47,18 @@ Challenge stats parser script - improving, adding rake tasks
 Reading about rake.  
 99 bottles op oop: parts 3.6, 3.7.1 - 3.7.4  
 Listening to the podcast "Ruby book club with Sandi Metz and Katrina Owen" about the book "99 bottles of oop"
+"The Clean Coder" (ru) - chapter 2
+[hanami, ruby, oop]
   
+**Day 8**  
+"The Clean Coder" (ru) - chapter 3  
+Refactoring the challenge stats parser script  
+Adding tiny feature to hanami app  
+99 bottles of oop: parts 3.7.5, 3.8
+[ruby, hanami, oop]  
+
+
+
+
+
 
