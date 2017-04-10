@@ -62,10 +62,11 @@ Adding tiny feature to hanami app
 Reading an article: [Retracing original oop](https://medium.com/skyfishtech/retracing-original-object-oriented-programming-f8b689c4ce50)  
 Watching videos: [Madam Sandi Tells Your Future by Sandi Metz ](https://www.youtube.com/watch?v=JOM5_V5jLAs)  
 (SOLID Object-Oriented Design by Sandi Metz)[https://www.youtube.com/watch?v=v-2yFMzxqwU&t=1255s]  
+99 bottles of oop: parts 4.1-4.3  
 [oop, history]  
 
 **Day 10**  
-Read about value objects, took notes  
+Read several articles about value objects and took [notes]()
 99 bottles of oop: parts 4.1 - 4.3
 [oop]  
 
@@ -75,7 +76,5 @@ Did couple of ruby kata on exercism
 Adding sass, jquery and coffeescript to hanami app  
 99 bottles of oop: parts 4.4 - 4.6  
 [ruby, hanami, oop]
-
-
 
 
