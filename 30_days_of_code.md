@@ -64,9 +64,17 @@ Watching videos: [Madam Sandi Tells Your Future by Sandi Metz ](https://www.yout
 (SOLID Object-Oriented Design by Sandi Metz)[https://www.youtube.com/watch?v=v-2yFMzxqwU&t=1255s]  
 [oop, history]  
 
+**Day 10**  
+Read about value objects, took notes  
+99 bottles of oop: parts 4.1 - 4.3
+[oop]  
 
-
-
+**Day 11**  
+"The Clean Coder" (ru) - chapters 5-8  
+Did couple of ruby kata on exercism  
+Adding sass, jquery and coffeescript to hanami app  
+99 bottles of oop: parts 4.4 - 4.6  
+[ruby, hanami, oop]
 
 
 
