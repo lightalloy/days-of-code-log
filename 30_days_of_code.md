@@ -61,7 +61,7 @@ Adding tiny feature to hanami app
 "The Clean Coder" (ru) - chapter 4  
 Reading an article: [Retracing original oop](https://medium.com/skyfishtech/retracing-original-object-oriented-programming-f8b689c4ce50)  
 Watching videos: [Madam Sandi Tells Your Future by Sandi Metz ](https://www.youtube.com/watch?v=JOM5_V5jLAs)  
-(SOLID Object-Oriented Design by Sandi Metz)[https://www.youtube.com/watch?v=v-2yFMzxqwU&t=1255s]  
+[SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU&t=1255s)  
 99 bottles of oop: parts 4.1-4.3  
 [oop, history]  
 
