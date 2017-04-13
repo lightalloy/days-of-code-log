@@ -77,11 +77,11 @@ Adding sass, jquery and coffeescript to hanami app
 99 bottles of oop: parts 4.4 - 4.6  
 [ruby, hanami, oop]
 
-**Day 12**
-"The Clean Coder" (ru) - chapters 9
-99 bottles of oop: parts 4.7, 4.8
-Wrote notes on Liskov Substitution principle
-Listened to a pocast about electron.js ^_^
-[oop, electron.js]_
-
-**Day 13**
+**Day 12**  
+"The Clean Coder" (ru) - chapters 9  
+99 bottles of oop: parts 4.7, 4.8  
+Wrote notes on Liskov Substitution principle  
+Listened to a pocast about electron.js ^_^  
+[oop, electron.js]_ 
+  
+**Day 13**  
