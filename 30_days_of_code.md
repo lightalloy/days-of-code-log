@@ -81,7 +81,31 @@ Adding sass, jquery and coffeescript to hanami app
 "The Clean Coder" (ru) - chapters 9  
 99 bottles of oop: parts 4.7, 4.8  
 Wrote notes on Liskov Substitution principle  
-Listened to a pocast about electron.js ^_^  
+Listened to a podcast about electron.js ^_^  
 [oop, electron.js]_ 
   
 **Day 13**  
+Read Rails Guides about assets pipeline, took notes  
+99 bottles of oop: parts ??? (TODO)  
+
+**Day 14**  
+"The Clean Coder" (ru) - chapters 10-11  
+Started small hanami project [light-ketchup](https://github.com/lightalloy/light-ketchup) at a hackathon  
+
+**Day 15**  
+Coding [light-ketchup](https://github.com/lightalloy/light-ketchup) at the hackathon  
+
+**Day 16**  
+Small fixes for light-ketchup [light-ketchup](https://github.com/lightalloy/light-ketchup) at the hackathon  
+
+
+
+
+
+
+
+
+
+
+
+
