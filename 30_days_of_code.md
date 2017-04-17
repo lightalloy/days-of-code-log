@@ -86,10 +86,11 @@ Listened to a podcast about electron.js ^_^
   
 **Day 13**  
 Read Rails Guides about assets pipeline, took notes  
-99 bottles of oop: parts ??? (TODO)  
+99 bottles of oop: parts 4.9, 4.10, 5.1.1
+"The Clean Coder" (ru) - chapter 10  
 
 **Day 14**  
-"The Clean Coder" (ru) - chapters 10-11  
+"The Clean Coder" (ru) - chapters 11,12  
 Started small hanami project [light-ketchup](https://github.com/lightalloy/light-ketchup) at a hackathon  
 
 **Day 15**  
