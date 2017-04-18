@@ -92,17 +92,26 @@ Read Rails Guides about assets pipeline, took notes
 **Day 14**  
 "The Clean Coder" (ru) - chapters 11,12  
 Started small hanami project [light-ketchup](https://github.com/lightalloy/light-ketchup) at a hackathon  
+[hanami, ruby, bulma, jquery]
 
 **Day 15**  
 Coding [light-ketchup](https://github.com/lightalloy/light-ketchup) at the hackathon  
+[hanami, ruby, bulma, jquery]
 
 **Day 16**  
 Small fixes for light-ketchup [light-ketchup](https://github.com/lightalloy/light-ketchup) at the hackathon  
+[hanami, ruby]
 
+**Day 17**  
+Reading an article [skinny-controller-domain-model-event](https://www.rubytapas.com/2017/04/11/skinny-controller-domain-model-events/?__s=dpznc9vsafnr26amgmhs)  
+Running my hanami app on desktop with electron.js  
+99 bottles of oop: 5.1.2  
+"The Clean Coder" (ru) - chapter 13  
+[ruby-on-rails, electron.js, oop]
 
-
-
-
+**Day 18**  
+Reading the article [skinny-controller-domain-model-event](https://www.rubytapas.com/2017/04/11/skinny-controller-domain-model-events/?__s=dpznc9vsafnr26amgmhs), taking notes  
+[ruby-on-rails]  
 
 
 
