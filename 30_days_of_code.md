@@ -111,8 +111,15 @@ Running my hanami app on desktop with electron.js
 
 **Day 18**  
 Reading the article [skinny-controller-domain-model-event](https://www.rubytapas.com/2017/04/11/skinny-controller-domain-model-events/?__s=dpznc9vsafnr26amgmhs), taking notes  
+99 bottles of oop: 5.1.3, 5.1.4  
 [ruby-on-rails]  
 
+**Day 19**  
+Watched 2 videos about js from the (course)[https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27]
+Learned about squiggly heredoc in ruby  
+Found out how to use hanami-model in some cases  
+
+  
 
 
 
