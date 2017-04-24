@@ -118,11 +118,32 @@ Reading the article [skinny-controller-domain-model-event](https://www.rubytapas
 Watched 2 videos about js from the (course)[https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27]
 Learned about squiggly heredoc in ruby  
 Found out how to use hanami-model in some cases  
+[js, ruby, hanami]
 
-  
+**Day 20**  
+Refactored small parts of my light-ketchup app  
+99 bottles of oop: 5.1-5.2.4  
+Put one small piece of knowledge about rails in whil  
+[hanami, oop, ruby-on-rails]  
 
+**Day 21**  
+Read a small document about GRASP  
+Upgrading personal vps  
+99 bottles of oop: 5.2.5  
+[oop, linux]
 
+**Day 22**  
+Reading "97 things every programmer should know" - 4-5 chapters
+99 bottles of oop: 5.3, 5.4  
+Fixing stuff on personal vps  
+react-native Zworkouts app - fixing videos, adding styles  
+[linux, oop, react-native]  
 
+**Day 23**  
+Read "Grokking algorithms" - ch.8, 1/2 9
+99 bottles of oop: 5.5 - 5.7  
+
+**Day 24**  
 
 
 
