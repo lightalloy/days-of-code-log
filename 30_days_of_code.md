@@ -144,6 +144,22 @@ Read "Grokking algorithms" - ch.8, 1/2 9
 99 bottles of oop: 5.5 - 5.7  
 
 **Day 24**  
+99 bottles of oop: 6.1  
 
+**Day 25**  
+99 bottles of oop: 6.2, 6.3.1  
+Read several advices from "97 things every programmer should know"  
+
+**Day 26**  
+Watched "Ruby and Rails performance" talk  
+99 bottles of oop: 6.3.2, 6.3.3  
+
+**Day 27**  
+99 bottles of oop: 6.3.4, 6.4  
+
+**Day 28**  
+Read an [article](http://weblog.rubyonrails.org/2017/4/27/Rails-5-1-final/) about rails 5.1  
+Slightly improve react-native app, tried to improve more, but failed )  
+99 bottles of oop: 6.5  
 
 
