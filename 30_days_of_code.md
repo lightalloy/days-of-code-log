@@ -162,4 +162,11 @@ Read an [article](http://weblog.rubyonrails.org/2017/4/27/Rails-5-1-final/) abou
 Slightly improve react-native app, tried to improve more, but failed )  
 99 bottles of oop: 6.5  
 
+**Day 29**  
+Worked on days of code stats parser
+Improved my react-native app
+Read several pages of "Getting Real"
+
+**Day 30**  
+Read several pages of "Getting Real" and of "97 things every programmer should know"
 
